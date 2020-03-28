@@ -10,4 +10,5 @@ To Run :-
 
 
 Right click on AutomationApplication class and select 'run as application'.
+
 Spring application will run at http://localhost:8080/devices/
